@@ -76,6 +76,7 @@
     <Compile Include="Assets\Script\Player.cs" />
     <Compile Include="Assets\Script\PlayerDrink.cs" />
     <Compile Include="Assets\Script\PlayerMovement.cs" />
+    <Compile Include="Assets\Script\PlayPitFailSoundEffect.cs" />
     <Compile Include="Assets\Script\SoundMaster.cs" />
     <Compile Include="Assets\Script\StartGame.cs" />
     <Compile Include="Assets\Script\TrustButtons.cs" />
