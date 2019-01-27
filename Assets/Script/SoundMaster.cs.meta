@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: e150f335f04e1bb4dba644d6c3ad2000
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - BGS_rain: {fileID: 8300000, guid: 2843d3e5dc3f9874e840a8d3af47bebc, type: 3}
+  - Rnd_thunder: {fileID: 8300000, guid: 0937757db8d739f49a697f1524807b33, type: 3}
+  - Rnd_rain_and_thunder: {fileID: 8300000, guid: 2481c0a9f3e438a448deb3ea3f031efa,
+      type: 3}
+  - Rnd_lightning: {fileID: 8300000, guid: 50bc4011154b2d14abeb2ea895c31114, type: 3}
+  - Event_bark1: {fileID: 8300000, guid: 352e5d67e01614f4aadc9f9b5dd527bf, type: 3}
+  - Event_bark2: {fileID: 8300000, guid: 76244c40154ad9845921423c20716e2c, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
